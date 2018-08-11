@@ -1,0 +1,16 @@
+#portfolios .single-cases-card{
+    margin: 0;
+}
+#portfolios .owl-nav{
+    display: none;
+}
+#portfolios .single-service-preview{
+    padding: 30px;
+}
+#portfolios .owl-dots{
+    margin-top: 10px;
+}
+#portfolios .owl-dots .owl-dot.active span{
+    background: #0d5bdb;
+    border: solid #D6D6D6 1px;
+}
